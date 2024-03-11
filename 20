@@ -1,8 +1,8 @@
 # assigning variables to given values
-numChar = 8
+numChar = 20
 charge = 0.00
 color = 'gold'
-woodType = 'oak'
+woodType = 'pine'
 # check if number of characters is greater than 5, add $4 for every extra character
 if numChar > 5: charge += (numChar - 5) * 4
 # if wood is of oak add charge by 20
